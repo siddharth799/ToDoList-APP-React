@@ -14,9 +14,9 @@ ToDo List App is a kind of app that generally used to maintain our day-to-day ta
 ## Screenshots
 
 ### Img
-![Screenshot (1456)](https://g![Screenshot (1460)](https://github.com/siddharth799/ToDoList-APP-React/assets/115414262/95f2a15e-14a1-4fc0-9b38-f9f193865847)
+
 ![Screenshot (1459)](https://github.com/siddharth799/ToDoList-APP-React/assets/115414262/f11aa053-51f4-46da-aed0-828079c647f7)
 ![Screenshot (1458)](https://github.com/siddharth799/ToDoList-APP-React/assets/115414262/93aea73b-52fa-4974-85fc-6bd1a5572715)
 ![Screenshot (1457)](https://github.com/siddharth799/ToDoList-APP-React/assets/115414262/dc695f6c-6b70-4934-847f-1b3d1433bea2)
-ithub.com/siddharth799/ToDoList-APP-React/assets/115414262/4b8d7036-da36-44bd-9038-93e7575bd6f4)
+
 
